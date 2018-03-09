@@ -1,3 +1,0 @@
-## Propiedades de un objeto
-
-En construcción...
